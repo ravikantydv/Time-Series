@@ -1,2 +1,2 @@
 # Time-Series
-This is an ARIMA code where I used Hourly dataset and applied Arima model on it for predictions
+These are the codes on time series analysis where i used Models from time series like ARMA , ARIMA etc and made predictions
